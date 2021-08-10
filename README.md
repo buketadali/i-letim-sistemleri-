@@ -1,2 +1,2 @@
-# i-letim-sistemleri-
+# isletim-sistemleri-
 soru ve c# kod örnekleri
